@@ -13,9 +13,10 @@
   <a href="mailto:tg.oliver22@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <a href="https://dev.to/thiagoblake" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logo=DEV.TO&logoColor=white" alt="DEV.TO"/>
   </a>
+
 </p>
 
 ---
