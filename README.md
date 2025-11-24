@@ -16,6 +16,10 @@
     <a href="https://dev.to/thiagoblake" target="_blank">
     <img src="https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logo=DEV.TO&logoColor=white" alt="DEV.TO"/>
   </a>
+    </a>
+    <a href="https://blake.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/BLAKE.DEV-FFF333?style=for-the-badge&logo=BLAKE.DEV&logoColor=white" alt="BLAKE.DEV"/>
+  </a>
 
 </p>
 
